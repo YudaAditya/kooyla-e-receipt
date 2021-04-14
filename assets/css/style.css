@@ -19,12 +19,12 @@ h3{
 
 
 .bg{
-    background-image: url("../images/BG.png");
+    background-image: url("../svg/BG.svg");
  /* Full height */
     height: 100%;
 
  /* Center and scale the image nicely */
-    background-position: center;
+ background-position: initial;
     background-size: cover;
 }
 
