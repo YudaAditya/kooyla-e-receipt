@@ -1,0 +1,57 @@
+body, html{   
+    height: 100%;
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    font-weight: bold;
+}
+h3{
+    font-weight: bold;
+}
+
+.color-orange{
+    color: #FF630D;
+}
+
+.caption-bold{
+    font-weight: bold;
+}
+
+
+.bg{
+    background-image: url("../images/BG.png");
+ /* Full height */
+    height: 100%;
+
+ /* Center and scale the image nicely */
+    background-position: center;
+    background-size: cover;
+}
+
+.card-header{
+    background-image: url("../images/bg pattern.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+}
+
+.card-footer{
+    background-image: url("../images/bg pattern.png");
+background-repeat: no-repeat;
+background-size: cover;
+border: none;
+background-position: bottom;
+}
+
+.logo{
+    height: 50%;
+    width: 25%;
+}
+.logo-footer{
+     height: 10%;
+     width: 5%;
+}
+
+.qrcode{
+    width: 50%;
+}
